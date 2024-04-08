@@ -1,0 +1,76 @@
+.PCField{
+    position: relative;
+    width: 1000px;
+    height: 100%;
+    left: calc(50% - 500px);
+}
+
+.PCField h1{
+    font-size: 80px;
+    text-align: center;
+}
+
+.PCField div{
+    position: relative;
+    left: calc(50% - 200px);
+    width: calc(50% - 200px); 
+    height: 200px; 
+    font-size: 120px;
+    background-color: aquamarine;
+    border: 7px solid black;
+    border-radius: 50px;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.PCField div p{
+    font-size: 50px;
+}
+
+
+.PCField div:last-child{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.PCField div input{
+    width : (100% - 50px);
+    text-align: center;
+    border: 7px solid black;
+}
+
+.PCField div a{
+    font-size: 30px;
+    width:40%;
+    height: auto;
+    background-color: burlywood;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
+
+
+
+.MPField{
+    position: relative;
+    height: 100%;
+    width: auto;
+}
+
+.MPField h1{
+    font-size: 80px;
+    text-align: center;
+}
+
+.MPField p{
+    height : 400px;
+    width: auto;
+    background-color: aquamarine;
+    top: 1000px;
+}
