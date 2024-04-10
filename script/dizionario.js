@@ -307,4 +307,24 @@ const Dizionario  = [
         e:"absolute", 
         i:"assoluto"
     },
+    {
+        e:"absolutness", 
+        i:"assolutezza"
+    },
+    {
+        e:"absolution", 
+        i:"assoluzione"
+    },
+    {
+        e:"absolutism", 
+        i:"assolutismo"
+    },
+    {
+        e:"absolutist", 
+        i:"assolutista"
+    },
+    {
+        e:"(to) absolve", 
+        i:"assolvere"
+    },
 ]
