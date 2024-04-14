@@ -1815,41 +1815,901 @@ const Dizionario  = [
         e:"ageing", 
         i:"invecchiamento"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+        e:"ageless", 
+        i:"senza tempo"
+    },
+    {
+        e:"agency", 
+        i:"agenzia"
+    },
+    {
+        e:"agenda", 
+        i:"agenda"
+    },
+    {
+        e:"agent", 
+        i:"agente"
+    },
+    {
+        e:"(to) agglomerate", 
+        i:"agglomerare"
+    },
+    {
+        e:"agglomeration", 
+        i:"agglomerazione"
+    },
+    {
+        e:"(to) agglutinate", 
+        i:"agglutinare"
+    },
+    {
+        e:"(to) aggrandize", 
+        i:"ingrandire"
+    },
+    {
+        e:"(to) aggravate", 
+        i:"aggavare"
+    },
+    {
+        e:"aggravating", 
+        i:"irritante"
+    },
+    {
+        e:"aggregate", 
+        i:"totale"
+    },
+    {
+        e:"(to) aggregate", 
+        i:"aggregare"
+    },
+    {
+        e:"aggression", 
+        i:"aggressione"
+    },
+    {
+        e:"aggressive", 
+        i:"aggressivo"
+    },
+    {
+        e:"aggressiveness", 
+        i:"agressività"
+    },
+    {
+        e:"aggressor", 
+        i:"aggressore"
+    },
+    {
+        e:"aggrieved", 
+        i:"dispiaciuto"
+    },
+    {
+        e:"aggro", 
+        i:"aggressività"
+    },
+    {
+        e:"aghast", 
+        i:"spaventato"
+    },
+    {
+        e:"agile", 
+        i:"agile"
+    },
+    {
+        e:"agility", 
+        i:"agilità"
+    },
+    {
+        e:"aging", 
+        i:"invecchiamento"
+    },
+    {
+        e:"ageing", 
+        i:"invecchiamento"
+    },
+    {
+        e:"agio", 
+        i:"aggio"
+    },
+    {
+        e:"(to) agitate", 
+        i:"agitare"
+    },
+    {
+        e:"agitation", 
+        i:"agitazione"
+    },
+    {
+        e:"agitator", 
+        i:"agitatore"
+    },
+    {
+        e:"agnostic", 
+        i:"agnostico"
+    },
+    {
+        e:"agnosticism", 
+        i:"agnosticismo"
+    },
+    {
+        e:"ago", 
+        i:"fa"
+    },
+    {
+        e:"agonistic", 
+        i:"agonistico"
+    },
+    {
+        e:"(to) agonize", 
+        i:"agonizzare"
+    },
+    {
+        e:"agonizing (agg)", 
+        i:"angoscioso"
+    },
+    {
+        e:"agony", 
+        i:"agonia"
+    },
+    {
+        e:"agopraphobia", 
+        i:"agorafobia"
+    },
+    {
+        e:"agraffe", 
+        i:"graffa"
+    },
+    {
+        e:"agrarian", 
+        i:"agrario"
+    },
+    {
+        e:"(to) agree", 
+        i:"accordare"
+    },
+    {
+        e:"agreed", 
+        i:"accordato"
+    },
+    {
+        e:"agremeent", 
+        i:"accordo"
+    },
+    {
+        e:"agricultural", 
+        i:"agricolo"
+    },
+    {
+        e:"agriculture", 
+        i:"agricoltura"
+    },
+    {
+        e:"agronomics", 
+        i:"agronomia"
+    },
+    {
+        e:"agronomist", 
+        i:"agronomo"
+    },
+    {
+        e:"aground", 
+        i:"in secca"
+    },
+    {
+        e:"ahead", 
+        i:"avanti"
+    },
+    {
+        e:"aid", 
+        i:"soccorso"
+    },
+    {
+        e:"(to) aid", 
+        i:"soccorrere"
+    },
+    {
+        e:"aide", 
+        i:"assistente"
+    },
+    {
+        e:"(to) ail", 
+        i:"soffrire"
+    },
+    {
+        e:"aim", 
+        i:"mira"
+    },
+    {
+        e:"(to) aim", 
+        i:"mirare"
+    },
+    {
+        e:"aimless", 
+        i:"senza scopo"
+    },
+    {
+        e:"air", 
+        i:"aria"
+    },
+    {
+        e:"airbag", 
+        i:"airbag"
+    },
+    {
+        e:"airbase", 
+        i:"base aerea"
+    },
+    {
+        e:"airborne", 
+        i:"aviotrasporto"
+    },
+    {
+        e:"airbrick", 
+        i:"mattone forato"
+    },
+    {
+        e:"airbus", 
+        i:"aerobus"
+    },
+    {
+        e:"airdrop", 
+        i:"lancio"
+    },
+    {
+        e:"airforce", 
+        i:"aeronautica militare"
+    },
+    {
+        e:"airgun", 
+        i:"fucile ad aria compressa"
+    },
+    {
+        e:"airline", 
+        i:"compagnia aerea"
+    },
+    {
+        e:"airlift", 
+        i:"ponte aereo"
+    },
+    {
+        e:"airman", 
+        i:"aviere"
+    },
+    {
+        e:"airplane", 
+        i:"aeroplano"
+    },
+    {
+        e:"airport", 
+        i:"aeroporto"
+    },
+    {
+        e:"airship", 
+        i:"aronave"
+    },
+    {
+        e:"airspace", 
+        i:"spazio aereo"
+    },
+    {
+        e:"air-strike", 
+        i:"attacco aereo"
+    },
+    {
+        e:"airy", 
+        i:"areoso"
+    },
+    {
+        e:"aisle", 
+        i:"corridoio"
+    },
+    {
+        e:"alabaster", 
+        i:"alabastro"
+    },
+    {
+        e:"alarm", 
+        i:"allarme"
+    },
+    {
+        e:"alarm clock", 
+        i:"sveglia"
+    },
+    {
+        e:"alarming (agg)", 
+        i:"allarmante"
+    },
+    {
+        e:"alarmist", 
+        i:"allarmista"
+    },
+    {
+        e:"albatross", 
+        i:"albatross"
+    },
+    {
+        e:"albino", 
+        i:"albino"
+    },
+    {
+        e:"album", 
+        i:"album"
+    },
+    {
+        e:"albumin", 
+        i:"albumina"
+    },
+    {
+        e:"alchemist", 
+        i:"alchimista"
+    },
+    {
+        e:"alchemy", 
+        i:"alchimia"
+    },
+    {
+        e:"alcohol", 
+        i:"alcol"
+    },
+    {
+        e:"alcoholic", 
+        i:"alcolico"
+    },
+    {
+        e:"alcoholism", 
+        i:"alcolismo"
+    },
+    {
+        e:"alcove", 
+        i:"nicchia"
+    },
+    {
+        e:"aldehyde", 
+        i:"aldeide"
+    },
+    {
+        e:"alder", 
+        i:"ontano"
+    },
+    {
+        e:"ale", 
+        i:"birra"
+    },
+    {
+        e:"alert", 
+        i:"allarme"
+    },
+    {
+        e:"algebra", 
+        i:"algebra"
+    },
+    {
+        e:"algebraical", 
+        i:"algebrico"
+    },
+    {
+        e:"algorithm", 
+        i:"algoritmo"
+    },
+    {
+        e:"alias", 
+        i:"pseudonimo"
+    },
+    {
+        e:"alien", 
+        i:"alieno"
+    },
+    {
+        e:"(to) alienate", 
+        i:"alienare"
+    },
+    {
+        e:"alienation", 
+        i:"alienazione"
+    },
+    {
+        e:"alight", 
+        i:"acceso"
+    },
+    {
+        e:"(to) alight", 
+        i:"scendere"
+    },
+    {
+        e:"(to) align", 
+        i:"allineare"
+    },
+    {
+        e:"alignment", 
+        i:"allineamento"
+    },
+    {
+        e:"alike", 
+        i:"simile"
+    },
+    {
+        e:"alimentary", 
+        i:"alimentare"
+    },
+    {
+        e:"alive", 
+        i:"vivo"
+    },
+    {
+        e:"alkaline", 
+        i:"alcalino"
+    },
+    {
+        e:"alkaloid", 
+        i:"alcaloide"
+    },
+    {
+        e:"all", 
+        i:"tutto"
+    },
+    {
+        e:"allegiance", 
+        i:"fedeltà"
+    },
+    {
+        e:"allegorical", 
+        i:"allegorico"
+    },
+    {
+        e:"allegory", 
+        i:"allegoria"
+    },
+    {
+        e:"allergen", 
+        i:"allergene"
+    },
+    {
+        e:"allergenic", 
+        i:"allergenico"
+    },
+    {
+        e:"allergic", 
+        i:"allergico"
+    },
+    {
+        e:"allergist", 
+        i:"allergolog"
+    },
+    {
+        e:"allergy", 
+        i:"allergia"
+    },
+    {
+        e:"(to) alleviate", 
+        i:"alleviare"
+    },
+    {
+        e:"alleviation", 
+        i:"alleviazione"
+    },
+    {
+        e:"alley", 
+        i:"vialetto"
+    },
+    {
+        e:"all fours", 
+        i:"gattoni"
+    },
+    {
+        e:"alliance", 
+        i:"alleanza"
+    },
+    {
+        e:"allied", 
+        i:"alleato"
+    },
+    {
+        e:"alligator", 
+        i:"alligatore"
+    },
+    {
+        e:"all-in", 
+        i:"tutto incluso"
+    },
+    {
+        e:"alliteration", 
+        i:"allitterazione"
+    },
+    {
+        e:"(to) allocate", 
+        i:"assegnare"
+    },
+    {
+        e:"allocation", 
+        i:"assegnazione"
+    },
+    {
+        e:"allocution", 
+        i:"allocuzione"
+    },
+    {
+        e:"(to) allot", 
+        i:"distribuire"
+    },
+    {
+        e:"allotment", 
+        i:"lotto"
+    },
+    {
+        e:"allotrope", 
+        i:"allotropo"
+    },
+    {
+        e:"(to) allow", 
+        i:"permettere"
+    },
+    {
+        e:"allowable", 
+        i:"ammissibile"
+    },
+    {
+        e:"allowance", 
+        i:"indennità"
+    },
+    {
+        e:"alloy", 
+        i:"lega"
+    },
+    {
+        e:"(to) alloy", 
+        i:"legare"
+    },
+    {
+        e:"all right", 
+        i:"a posto"
+    },
+    {
+        e:"all round", 
+        i:"in generale"
+    },
+    {
+        e:"(to) allude", 
+        i:"alludere"
+    },
+    {
+        e:"allure", 
+        i:"fascino"
+    },
+    {
+        e:"(to) allure", 
+        i:"affascinare"
+    },
+    {
+        e:"alluring (agg)", 
+        i:"affascinante"
+    },
+    {
+        e:"allusion", 
+        i:"allusione"
+    },
+    {
+        e:"allusive", 
+        i:"allusivo"
+    },
+    {
+        e:"alluvial", 
+        i:"alluvionale"
+    },
+    {
+        e:"ally", 
+        i:"alleato"
+    },
+    {
+        e:"(to) ally", 
+        i:"alleare"
+    },
+    {
+        e:"almanac", 
+        i:"almanacco"
+    },
+    {
+        e:"almighty", 
+        i:"grande"
+    },
+    {
+        e:"almond", 
+        i:"mandorla"
+    },
+    {
+        e:"almost", 
+        i:"quasi"
+    },
+    {
+        e:"alms", 
+        i:"elemosina"
+    },
+    {
+        e:"aloft", 
+        i:"in aria"
+    },
+    {
+        e:"alone", 
+        i:"solo"
+    },
+    {
+        e:"along", 
+        i:"avanti"
+    },
+    {
+        e:"alongside", 
+        i:"a fianco"
+    },
+    {
+        e:"aloof", 
+        i:"in disparte"
+    },
+    {
+        e:"aloud", 
+        i:"rumoroso"
+    },
+    {
+        e:"alp", 
+        i:"alpe"
+    },
+    {
+        e:"alpaca", 
+        i:"alpaca"
+    },
+    {
+        e:"alpha", 
+        i:"alfa"
+    },
+    {
+        e:"alphabet", 
+        i:"alfabeto"
+    },
+    {
+        e:"alphabetical", 
+        i:"alfabetico"
+    },
+    {
+        e:"alphanumeric", 
+        i:"alfanumerico"
+    },
+    {
+        e:"alpine", 
+        i:"alpino"
+    },
+    {
+        e:"already", 
+        i:"già"
+    },
+    {
+        e:"also", 
+        i:"anche"
+    },
+    {
+        e:"altar", 
+        i:"altare"
+    },
+    {
+        e:"(to) alter", 
+        i:"alterare"
+    },
+    {
+        e:"alteration", 
+        i:"alterazione"
+    },
+    {
+        e:"altercation", 
+        i:"alterco"
+    },
+    {
+        e:"alternate", 
+        i:"alternato"
+    },
+    {
+        e:"(to) alternate", 
+        i:"alternare"
+    },
+    {
+        e:"alternative", 
+        i:"alternativo"
+    },
+    {
+        e:"alternator", 
+        i:"alternatore"
+    },
+    {
+        e:"although", 
+        i:"sebbene"
+    },
+    {
+        e:"altimeter", 
+        i:"altimetro"
+    },
+    {
+        e:"altitude", 
+        i:"altitudine"
+    },
+    {
+        e:"altogether", 
+        i:"completamente"
+    },
+    {
+        e:"altruism", 
+        i:"altruismo"
+    },
+    {
+        e:"altruist", 
+        i:"altruista"
+    },
+    {
+        e:"altruistic", 
+        i:"altruistico"
+    },
+    {
+        e:"alum", 
+        i:"allume"
+    },
+    {
+        e:"aluminum", 
+        i:"alluminio"
+    },
+    {
+        e:"alveolary", 
+        i:"alveolare"
+    },
+    {
+        e:"alveolus",
+        i:"alveolo"
+    },
+    {
+        e:"always", 
+        i:"sempre"
+    },
+    {
+        e:"amalgam", 
+        i:"amalgama"
+    },
+    {
+        e:"(to) amalgamate", 
+        i:"amalgamare"
+    },
+    {
+        e:"amalgamation", 
+        i:"amalgamazione"
+    },
+    {
+        e:"amanuensis", 
+        i:"amanuense"
+    },
+    {
+        e:"amarant", 
+        i:"amaranto"
+    },
+    {
+        e:"amaryllis", 
+        i:"amarilli"
+    },
+    {
+        e:"(to) amass", 
+        i:"ammassare"
+    },
+    {
+        e:"amateur", 
+        i:"dilettante"
+    },
+    {
+        e:"amateurish", 
+        i:"dilettantesco"
+    },
+    {
+        e:"amatory", 
+        i:"amatorio"
+    },
+    {
+        e:"(to) amaze", 
+        i:"stupire"
+    },
+    {
+        e:"amazed", 
+        i:"stupito"
+    },
+    {
+        e:"amazement", 
+        i:"stupore"
+    },
+    {
+        e:"amazing", 
+        i:"sorprendente"
+    },
+    {
+        e:"amazon", 
+        i:"amazzone"
+    },
+    {
+        e:"ambassador", 
+        i:"ambasciatore"
+    },
+    {
+        e:"ambassadorial", 
+        i:"da ambasciatore"
+    },
+    {
+        e:"amber", 
+        i:"ambra"
+    },
+    {
+        e:"ambidextrous", 
+        i:"ambidestro"
+    },
+    {
+        e:"ambience", 
+        i:"ambiente"
+    },
+    {
+        e:"ambient", 
+        i:"ambiente"
+    },
+    {
+        e:"ambiguity", 
+        i:"ambiguità"
+    },
+    {
+        e:"ambiguous", 
+        i:"ambiguo"
+    },
+    {
+        e:"ambit", 
+        i:"ambito"
+    },
+    {
+        e:"ambition", 
+        i:"ambizione"
+    },
+    {
+        e:"ambitious", 
+        i:"ambizioso"
+    },
+    {
+        e:"ambivalence", 
+        i:"indecisione"
+    },
+    {
+        e:"ambivalent", 
+        i:"indeciso"
+    },
+    {
+        e:"amble", 
+        i:"ambio"
+    },
+    {
+        e:"ambulance", 
+        i:"ambulanza"
+    },
+    {
+        e:"ambush", 
+        i:"imboscata"
+    },
+    {
+        e:"ameba", 
+        i:"ameba"
+    },
+    {
+        e:"(to) ameliorate", 
+        i:"migliorare"
+    },
+    {
+        e:"amelioration", 
+        i:"miglioramento"
+    },
+    {
+        e:"(to) amend", 
+        i:"emendare"
+    },
+    {
+        e:"amendment", 
+        i:"emendamento"
+    },
+    {
+        e:"amends", 
+        i:"fare ammenda"
+    },
 
 ]
