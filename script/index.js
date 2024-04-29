@@ -13,6 +13,10 @@ function setup(){
 
 function check(){
   console.log(input.value)
+
+  //verificare con un for che itera tutti gli elementi di dizionario fino a che non trova quello scelto
+  //if(dizionario[i].e == parola randomizzata) e poi verifica se la risposta è inclusa nella paroal randomizzata
+  //if(dizionario[i].i.includes(risposta)).......
 }
 
 
